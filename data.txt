@@ -1,0 +1,3 @@
+Name: Olka
+Age: 29
+Favourite Color: Green
