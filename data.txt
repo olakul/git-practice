@@ -1,3 +1,4 @@
 Name: Olka
 Age: 29
 Favourite Color: Green
+Favourite food: Pasta
